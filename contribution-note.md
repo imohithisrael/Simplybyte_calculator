@@ -7,3 +7,4 @@ GitHub Fork and Pull Request experiment.
 - Created a new contribution file.
 - Practised Git branching.
 - Prepared changes for a pull request.
+EXP 10: Feature branch modification for merge conflict experiment.
