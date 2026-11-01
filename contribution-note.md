@@ -1,6 +1,6 @@
 # My First GitHub Contribution
 
-This file was updated in the feature branch for Exp 10.
+This file was updated in the main branch for Exp 10.
 GitHub Fork and Pull Request experiment.
 
 ## Changes Made
